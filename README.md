@@ -1,4 +1,4 @@
-# Clinical Variant QC & Reporting 🧬
+# Clinical Variant QC & Reporting 
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 ![Demo](https://img.shields.io/badge/Data-synthetic-orange)
